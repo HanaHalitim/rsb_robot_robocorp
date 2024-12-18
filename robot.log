@@ -1,0 +1,250 @@
+2024-12-18 03:26:55,261 - INFO - Starting the robot process...
+2024-12-18 03:26:55,261 - INFO - Initializing browser...
+2024-12-18 03:26:58,024 - INFO - Attempting to log in...
+2024-12-18 03:26:58,531 - INFO - Login successful.
+2024-12-18 03:26:58,532 - INFO - Initialization complete.
+2024-12-18 03:26:58,534 - INFO - Downloading Excel file...
+2024-12-18 03:26:58,537 - INFO - Creating a new HTTP session
+2024-12-18 03:26:58,538 - INFO - Creating Session using : alias=rpasession_alias.httpsrobotsparebinindustries.com, url=https://robotsparebinindustries.com, headers={},                     cookies={}, auth=None, timeout=None, proxies=None, verify=True,                     debug=0 
+2024-12-18 03:26:58,728 - INFO - Excel file downloaded successfully.
+2024-12-18 03:26:58,767 - INFO - Opened workbook: <RPA.Excel.Files.XlsxWorkbook object at 0x0000022690618700>
+2024-12-18 03:26:58,772 - INFO - Created table: Table(columns=['First Name', 'Last Name', 'Sales', 'Sales Target'], rows=50)
+2024-12-18 03:26:58,773 - INFO - Closing workbook: <RPA.Excel.Files.XlsxWorkbook object at 0x0000022690618700>
+2024-12-18 03:26:58,774 - INFO - Processing 50 rows of sales data...
+2024-12-18 03:26:58,775 - INFO - Processing data for David Heazel
+2024-12-18 03:27:02,455 - INFO - Form submitted for David Heazel
+2024-12-18 03:27:02,456 - INFO - Processing data for Conte Mascetti
+2024-12-18 03:27:03,316 - INFO - Form submitted for Conte Mascetti
+2024-12-18 03:27:03,318 - INFO - Processing data for Dallon Seals
+2024-12-18 03:27:04,160 - INFO - Form submitted for Dallon Seals
+2024-12-18 03:27:04,160 - INFO - Processing data for Jocelyn Thomsson
+2024-12-18 03:27:05,063 - INFO - Form submitted for Jocelyn Thomsson
+2024-12-18 03:27:05,064 - INFO - Processing data for Yoko Flecknell
+2024-12-18 03:27:05,924 - INFO - Form submitted for Yoko Flecknell
+2024-12-18 03:27:05,925 - INFO - Processing data for Ninnette Heinssen
+2024-12-18 03:27:06,763 - INFO - Form submitted for Ninnette Heinssen
+2024-12-18 03:27:06,763 - INFO - Processing data for Ahmed Vasnetsov
+2024-12-18 03:27:07,636 - INFO - Form submitted for Ahmed Vasnetsov
+2024-12-18 03:27:07,637 - INFO - Processing data for Pearline Fenton
+2024-12-18 03:27:08,437 - INFO - Form submitted for Pearline Fenton
+2024-12-18 03:27:08,438 - INFO - Processing data for Lelah Yewdale
+2024-12-18 03:27:09,245 - INFO - Form submitted for Lelah Yewdale
+2024-12-18 03:27:09,246 - INFO - Processing data for Belinda Blumenthal
+2024-12-18 03:27:10,103 - INFO - Form submitted for Belinda Blumenthal
+2024-12-18 03:27:10,103 - INFO - Processing data for Antoni Degoe
+2024-12-18 03:27:10,907 - INFO - Form submitted for Antoni Degoe
+2024-12-18 03:27:10,908 - INFO - Processing data for Donnamarie Watts
+2024-12-18 03:27:11,781 - INFO - Form submitted for Donnamarie Watts
+2024-12-18 03:27:11,782 - INFO - Processing data for Anabella Blindermann
+2024-12-18 03:27:12,589 - INFO - Form submitted for Anabella Blindermann
+2024-12-18 03:27:12,589 - INFO - Processing data for Fred Mengoni
+2024-12-18 03:27:13,419 - INFO - Form submitted for Fred Mengoni
+2024-12-18 03:27:13,420 - INFO - Processing data for Nathanil Bragg
+2024-12-18 03:27:14,198 - INFO - Form submitted for Nathanil Bragg
+2024-12-18 03:27:14,201 - INFO - Processing data for Casar Kubek
+2024-12-18 03:27:15,088 - INFO - Form submitted for Casar Kubek
+2024-12-18 03:27:15,089 - INFO - Processing data for Myrtle Puddle
+2024-12-18 03:27:15,952 - INFO - Form submitted for Myrtle Puddle
+2024-12-18 03:27:15,954 - INFO - Processing data for Devi Oag
+2024-12-18 03:27:16,776 - INFO - Form submitted for Devi Oag
+2024-12-18 03:27:16,777 - INFO - Processing data for Emyle O'Driscole
+2024-12-18 03:27:17,603 - INFO - Form submitted for Emyle O'Driscole
+2024-12-18 03:27:17,604 - INFO - Processing data for Mickie Linbohm
+2024-12-18 03:27:18,402 - INFO - Form submitted for Mickie Linbohm
+2024-12-18 03:27:18,403 - INFO - Processing data for Isaac Asimov
+2024-12-18 03:27:19,231 - INFO - Form submitted for Isaac Asimov
+2024-12-18 03:27:19,233 - INFO - Processing data for Florence Mundow
+2024-12-18 03:27:20,074 - INFO - Form submitted for Florence Mundow
+2024-12-18 03:27:20,075 - INFO - Processing data for Mahalia Goodee
+2024-12-18 03:27:20,884 - INFO - Form submitted for Mahalia Goodee
+2024-12-18 03:27:20,885 - INFO - Processing data for Christy Iwaszkiewicz
+2024-12-18 03:27:21,729 - INFO - Form submitted for Christy Iwaszkiewicz
+2024-12-18 03:27:21,730 - INFO - Processing data for Madelyn Sire
+2024-12-18 03:27:22,507 - INFO - Form submitted for Madelyn Sire
+2024-12-18 03:27:22,508 - INFO - Processing data for Thurstan Karus
+2024-12-18 03:27:23,318 - INFO - Form submitted for Thurstan Karus
+2024-12-18 03:27:23,319 - INFO - Processing data for Bibi Rosita
+2024-12-18 03:27:24,144 - INFO - Form submitted for Bibi Rosita
+2024-12-18 03:27:24,145 - INFO - Processing data for Abbe Aldcorn
+2024-12-18 03:27:24,974 - INFO - Form submitted for Abbe Aldcorn
+2024-12-18 03:27:24,977 - INFO - Processing data for Ariadne Kiessel
+2024-12-18 03:27:25,772 - INFO - Form submitted for Ariadne Kiessel
+2024-12-18 03:27:25,773 - INFO - Processing data for Tiffany Emerine
+2024-12-18 03:27:26,616 - INFO - Form submitted for Tiffany Emerine
+2024-12-18 03:27:26,617 - INFO - Processing data for Jelene Pridden
+2024-12-18 03:27:27,385 - INFO - Form submitted for Jelene Pridden
+2024-12-18 03:27:27,386 - INFO - Processing data for Claus Bawcock
+2024-12-18 03:27:28,200 - INFO - Form submitted for Claus Bawcock
+2024-12-18 03:27:28,200 - INFO - Processing data for Ameline Olivello
+2024-12-18 03:27:29,027 - INFO - Form submitted for Ameline Olivello
+2024-12-18 03:27:29,028 - INFO - Processing data for Alikee Kohtler
+2024-12-18 03:27:29,890 - INFO - Form submitted for Alikee Kohtler
+2024-12-18 03:27:29,892 - INFO - Processing data for Cathleen Tinklin
+2024-12-18 03:27:30,698 - INFO - Form submitted for Cathleen Tinklin
+2024-12-18 03:27:30,700 - INFO - Processing data for Flossie Gurr
+2024-12-18 03:27:31,495 - INFO - Form submitted for Flossie Gurr
+2024-12-18 03:27:31,497 - INFO - Processing data for Milena Gudeman
+2024-12-18 03:27:32,334 - INFO - Form submitted for Milena Gudeman
+2024-12-18 03:27:32,335 - INFO - Processing data for Bliss Burgess
+2024-12-18 03:27:33,167 - INFO - Form submitted for Bliss Burgess
+2024-12-18 03:27:33,167 - INFO - Processing data for Donia Messenbird
+2024-12-18 03:27:33,964 - INFO - Form submitted for Donia Messenbird
+2024-12-18 03:27:33,965 - INFO - Processing data for Jemie Tunnacliffe
+2024-12-18 03:27:34,817 - INFO - Form submitted for Jemie Tunnacliffe
+2024-12-18 03:27:34,817 - INFO - Processing data for Gaylord Uebel
+2024-12-18 03:27:35,644 - INFO - Form submitted for Gaylord Uebel
+2024-12-18 03:27:35,646 - INFO - Processing data for Rufus Bewlie
+2024-12-18 03:27:36,533 - INFO - Form submitted for Rufus Bewlie
+2024-12-18 03:27:36,534 - INFO - Processing data for Jenine Kidby
+2024-12-18 03:27:37,422 - INFO - Form submitted for Jenine Kidby
+2024-12-18 03:27:37,423 - INFO - Processing data for Hortensia Leal
+2024-12-18 03:27:38,191 - INFO - Form submitted for Hortensia Leal
+2024-12-18 03:27:38,192 - INFO - Processing data for Regina Gurling
+2024-12-18 03:27:39,036 - INFO - Form submitted for Regina Gurling
+2024-12-18 03:27:39,039 - INFO - Processing data for Valenka Tantrum
+2024-12-18 03:27:39,874 - INFO - Form submitted for Valenka Tantrum
+2024-12-18 03:27:39,874 - INFO - Processing data for Dorie Batistelli
+2024-12-18 03:27:40,686 - INFO - Form submitted for Dorie Batistelli
+2024-12-18 03:27:40,688 - INFO - Processing data for Abra Heap
+2024-12-18 03:27:41,482 - INFO - Form submitted for Abra Heap
+2024-12-18 03:27:41,482 - INFO - Processing data for Petronille Lesor
+2024-12-18 03:27:42,233 - INFO - Form submitted for Petronille Lesor
+2024-12-18 03:27:42,234 - INFO - Processing data for Vincenty Stannering
+2024-12-18 03:27:43,044 - INFO - Form submitted for Vincenty Stannering
+2024-12-18 03:27:43,045 - INFO - All sales data processed.
+2024-12-18 03:27:43,045 - INFO - Process completed successfully.
+2024-12-18 03:27:43,046 - INFO - Taking screenshot and exporting results to PDF...
+2024-12-18 03:27:43,384 - INFO - Screenshot saved to output\sales_summary.png
+2024-12-18 03:27:43,424 - INFO - Writing output to file C:\Users\latitude\Desktop\my-rsb-robot\output\sales_results.pdf
+2024-12-18 03:27:44,345 - INFO - maxp pruned
+2024-12-18 03:27:44,346 - INFO - cmap pruned
+2024-12-18 03:27:44,353 - INFO - post pruned
+2024-12-18 03:27:44,358 - INFO - GDEF dropped
+2024-12-18 03:27:44,358 - INFO - GPOS dropped
+2024-12-18 03:27:44,358 - INFO - GSUB dropped
+2024-12-18 03:27:44,370 - INFO - glyf pruned
+2024-12-18 03:27:44,371 - INFO - Added gid0 to subset
+2024-12-18 03:27:44,371 - INFO - Added first four glyphs to subset
+2024-12-18 03:27:44,371 - INFO - Closing glyph list over 'glyf': 66 glyphs before
+2024-12-18 03:27:44,371 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0024', 'uni0027', 'uni002D', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0041', 'uni0042', 'uni0043', 'uni0044', 'uni0045', 'uni0046', 'uni0047', 'uni0048', 'uni0049', 'uni004A', 'uni004B', 'uni004C', 'uni004D', 'uni004E', 'uni004F', 'uni0050', 'uni0052', 'uni0053', 'uni0054', 'uni0055', 'uni0056', 'uni0057', 'uni0059', 'uni0061', 'uni0062', 'uni0063', 'uni0064', 'uni0065', 'uni0066', 'uni0067', 'uni0068', 'uni0069', 'uni006B', 'uni006C', 'uni006D', 'uni006E', 'uni006F', 'uni0070', 'uni0072', 'uni0073', 'uni0074', 'uni0075', 'uni0076', 'uni0077', 'uni0079', 'uni007A', 'uni007B', 'uni007D', 'uni00C4', 'uni202F']
+2024-12-18 03:27:44,372 - INFO - Glyph IDs:   [0, 1, 2, 3, 65, 73, 84, 95, 137, 141, 161, 197, 265, 270, 280, 291, 299, 320, 374, 382, 395, 409, 421, 453, 456, 469, 504, 575, 582, 594, 612, 645, 650, 660, 679, 715, 723, 752, 759, 775, 827, 837, 867, 884, 899, 932, 936, 950, 973, 1262, 1294, 1295, 1296, 1298, 1299, 1300, 1302, 1303, 1304, 1305, 1345, 1346, 1361, 1388, 1681, 1683]
+2024-12-18 03:27:44,372 - INFO - Closed glyph list over 'glyf': 66 glyphs after
+2024-12-18 03:27:44,373 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0024', 'uni0027', 'uni002D', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0041', 'uni0042', 'uni0043', 'uni0044', 'uni0045', 'uni0046', 'uni0047', 'uni0048', 'uni0049', 'uni004A', 'uni004B', 'uni004C', 'uni004D', 'uni004E', 'uni004F', 'uni0050', 'uni0052', 'uni0053', 'uni0054', 'uni0055', 'uni0056', 'uni0057', 'uni0059', 'uni0061', 'uni0062', 'uni0063', 'uni0064', 'uni0065', 'uni0066', 'uni0067', 'uni0068', 'uni0069', 'uni006B', 'uni006C', 'uni006D', 'uni006E', 'uni006F', 'uni0070', 'uni0072', 'uni0073', 'uni0074', 'uni0075', 'uni0076', 'uni0077', 'uni0079', 'uni007A', 'uni007B', 'uni007D', 'uni00C4', 'uni202F']
+2024-12-18 03:27:44,373 - INFO - Glyph IDs:   [0, 1, 2, 3, 65, 73, 84, 95, 137, 141, 161, 197, 265, 270, 280, 291, 299, 320, 374, 382, 395, 409, 421, 453, 456, 469, 504, 575, 582, 594, 612, 645, 650, 660, 679, 715, 723, 752, 759, 775, 827, 837, 867, 884, 899, 932, 936, 950, 973, 1262, 1294, 1295, 1296, 1298, 1299, 1300, 1302, 1303, 1304, 1305, 1345, 1346, 1361, 1388, 1681, 1683]
+2024-12-18 03:27:44,374 - INFO - Retaining 66 glyphs
+2024-12-18 03:27:44,375 - INFO - head subsetting not needed
+2024-12-18 03:27:44,375 - INFO - hhea subsetting not needed
+2024-12-18 03:27:44,375 - INFO - maxp subsetting not needed
+2024-12-18 03:27:44,375 - INFO - OS/2 subsetting not needed
+2024-12-18 03:27:44,375 - INFO - hmtx subsetted
+2024-12-18 03:27:44,377 - INFO - cmap subsetted
+2024-12-18 03:27:44,377 - INFO - prep subsetting not needed
+2024-12-18 03:27:44,378 - INFO - loca subsetting not needed
+2024-12-18 03:27:44,378 - INFO - post subsetted
+2024-12-18 03:27:44,378 - INFO - gasp subsetting not needed
+2024-12-18 03:27:44,378 - INFO - STAT subsetting not needed
+2024-12-18 03:27:44,378 - INFO - name subsetting not needed
+2024-12-18 03:27:44,380 - INFO - glyf subsetted
+2024-12-18 03:27:44,380 - INFO - head pruned
+2024-12-18 03:27:44,381 - INFO - OS/2 Unicode ranges pruned: [0, 31]
+2024-12-18 03:27:44,381 - INFO - OS/2 CodePage ranges pruned: [0]
+2024-12-18 03:27:44,384 - INFO - glyf pruned
+2024-12-18 03:27:44,387 - INFO - name pruned
+2024-12-18 03:27:44,432 - INFO - maxp pruned
+2024-12-18 03:27:44,432 - INFO - cmap pruned
+2024-12-18 03:27:44,432 - INFO - post pruned
+2024-12-18 03:27:44,433 - INFO - GDEF dropped
+2024-12-18 03:27:44,433 - INFO - GPOS dropped
+2024-12-18 03:27:44,433 - INFO - GSUB dropped
+2024-12-18 03:27:44,441 - INFO - glyf pruned
+2024-12-18 03:27:44,441 - INFO - Added gid0 to subset
+2024-12-18 03:27:44,442 - INFO - Added first four glyphs to subset
+2024-12-18 03:27:44,442 - INFO - Closing glyph list over 'glyf': 35 glyphs before
+2024-12-18 03:27:44,442 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0041', 'uni0044', 'uni004E', 'uni0052', 'uni0054', 'uni0061', 'uni0062', 'uni0063', 'uni0065', 'uni0066', 'uni0067', 'uni0069', 'uni006C', 'uni006D', 'uni006E', 'uni0072', 'uni0073', 'uni0074', 'uni0075', 'uni007B', 'uni007D', 'uni00C4']
+2024-12-18 03:27:44,442 - INFO - Glyph IDs:   [0, 1, 2, 3, 84, 299, 382, 409, 504, 575, 582, 612, 645, 650, 679, 723, 752, 759, 837, 867, 884, 899, 1294, 1295, 1296, 1298, 1299, 1300, 1302, 1303, 1304, 1305, 1345, 1346, 1681]
+2024-12-18 03:27:44,443 - INFO - Closed glyph list over 'glyf': 35 glyphs after
+2024-12-18 03:27:44,443 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0041', 'uni0044', 'uni004E', 'uni0052', 'uni0054', 'uni0061', 'uni0062', 'uni0063', 'uni0065', 'uni0066', 'uni0067', 'uni0069', 'uni006C', 'uni006D', 'uni006E', 'uni0072', 'uni0073', 'uni0074', 'uni0075', 'uni007B', 'uni007D', 'uni00C4']
+2024-12-18 03:27:44,443 - INFO - Glyph IDs:   [0, 1, 2, 3, 84, 299, 382, 409, 504, 575, 582, 612, 645, 650, 679, 723, 752, 759, 837, 867, 884, 899, 1294, 1295, 1296, 1298, 1299, 1300, 1302, 1303, 1304, 1305, 1345, 1346, 1681]
+2024-12-18 03:27:44,444 - INFO - Retaining 35 glyphs
+2024-12-18 03:27:44,445 - INFO - head subsetting not needed
+2024-12-18 03:27:44,445 - INFO - hhea subsetting not needed
+2024-12-18 03:27:44,445 - INFO - maxp subsetting not needed
+2024-12-18 03:27:44,445 - INFO - OS/2 subsetting not needed
+2024-12-18 03:27:44,445 - INFO - hmtx subsetted
+2024-12-18 03:27:44,447 - INFO - cmap subsetted
+2024-12-18 03:27:44,447 - INFO - prep subsetting not needed
+2024-12-18 03:27:44,447 - INFO - loca subsetting not needed
+2024-12-18 03:27:44,447 - INFO - post subsetted
+2024-12-18 03:27:44,447 - INFO - gasp subsetting not needed
+2024-12-18 03:27:44,447 - INFO - STAT subsetting not needed
+2024-12-18 03:27:44,448 - INFO - name subsetting not needed
+2024-12-18 03:27:44,450 - INFO - glyf subsetted
+2024-12-18 03:27:44,451 - INFO - head pruned
+2024-12-18 03:27:44,451 - INFO - OS/2 Unicode ranges pruned: [0]
+2024-12-18 03:27:44,451 - INFO - OS/2 CodePage ranges pruned: [0]
+2024-12-18 03:27:44,452 - INFO - glyf pruned
+2024-12-18 03:27:44,455 - INFO - name pruned
+2024-12-18 03:27:44,481 - INFO - maxp pruned
+2024-12-18 03:27:44,482 - INFO - cmap pruned
+2024-12-18 03:27:44,482 - INFO - post pruned
+2024-12-18 03:27:44,482 - INFO - GDEF dropped
+2024-12-18 03:27:44,482 - INFO - GPOS dropped
+2024-12-18 03:27:44,482 - INFO - GSUB dropped
+2024-12-18 03:27:44,493 - INFO - glyf pruned
+2024-12-18 03:27:44,496 - INFO - Added gid0 to subset
+2024-12-18 03:27:44,496 - INFO - Added first four glyphs to subset
+2024-12-18 03:27:44,496 - INFO - Closing glyph list over 'glyf': 18 glyphs before
+2024-12-18 03:27:44,496 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0062', 'uni006E', 'uni007B', 'uni007D', 'uni00A0']
+2024-12-18 03:27:44,497 - INFO - Glyph IDs:   [0, 1, 2, 3, 544, 727, 1256, 1257, 1258, 1260, 1261, 1262, 1264, 1265, 1266, 1267, 1307, 1308]
+2024-12-18 03:27:44,497 - INFO - Closed glyph list over 'glyf': 18 glyphs after
+2024-12-18 03:27:44,497 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0062', 'uni006E', 'uni007B', 'uni007D', 'uni00A0']
+2024-12-18 03:27:44,498 - INFO - Glyph IDs:   [0, 1, 2, 3, 544, 727, 1256, 1257, 1258, 1260, 1261, 1262, 1264, 1265, 1266, 1267, 1307, 1308]
+2024-12-18 03:27:44,498 - INFO - Retaining 18 glyphs
+2024-12-18 03:27:44,498 - INFO - head subsetting not needed
+2024-12-18 03:27:44,498 - INFO - hhea subsetting not needed
+2024-12-18 03:27:44,499 - INFO - maxp subsetting not needed
+2024-12-18 03:27:44,499 - INFO - OS/2 subsetting not needed
+2024-12-18 03:27:44,499 - INFO - hmtx subsetted
+2024-12-18 03:27:44,502 - INFO - cmap subsetted
+2024-12-18 03:27:44,502 - INFO - loca subsetting not needed
+2024-12-18 03:27:44,502 - INFO - post subsetted
+2024-12-18 03:27:44,503 - INFO - name subsetting not needed
+2024-12-18 03:27:44,504 - INFO - glyf subsetted
+2024-12-18 03:27:44,504 - INFO - head pruned
+2024-12-18 03:27:44,505 - INFO - OS/2 Unicode ranges pruned: [0]
+2024-12-18 03:27:44,505 - INFO - OS/2 CodePage ranges pruned: [0]
+2024-12-18 03:27:44,505 - INFO - glyf pruned
+2024-12-18 03:27:44,506 - INFO - name pruned
+2024-12-18 03:27:44,523 - INFO - maxp pruned
+2024-12-18 03:27:44,524 - INFO - cmap pruned
+2024-12-18 03:27:44,524 - INFO - post pruned
+2024-12-18 03:27:44,524 - INFO - GDEF dropped
+2024-12-18 03:27:44,524 - INFO - GPOS dropped
+2024-12-18 03:27:44,524 - INFO - GSUB dropped
+2024-12-18 03:27:44,534 - INFO - glyf pruned
+2024-12-18 03:27:44,539 - INFO - Added gid0 to subset
+2024-12-18 03:27:44,539 - INFO - Added first four glyphs to subset
+2024-12-18 03:27:44,539 - INFO - Closing glyph list over 'glyf': 18 glyphs before
+2024-12-18 03:27:44,539 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0062', 'uni006E', 'uni007B', 'uni007D', 'uni00A0']
+2024-12-18 03:27:44,540 - INFO - Glyph IDs:   [0, 1, 2, 3, 544, 727, 1256, 1257, 1258, 1260, 1261, 1262, 1264, 1265, 1266, 1267, 1307, 1308]
+2024-12-18 03:27:44,540 - INFO - Closed glyph list over 'glyf': 18 glyphs after
+2024-12-18 03:27:44,540 - INFO - Glyph names: ['.notdef', '.null', 'uni0020', 'uni0030', 'uni0031', 'uni0032', 'uni0033', 'uni0034', 'uni0035', 'uni0036', 'uni0037', 'uni0038', 'uni0039', 'uni0062', 'uni006E', 'uni007B', 'uni007D', 'uni00A0']
+2024-12-18 03:27:44,540 - INFO - Glyph IDs:   [0, 1, 2, 3, 544, 727, 1256, 1257, 1258, 1260, 1261, 1262, 1264, 1265, 1266, 1267, 1307, 1308]
+2024-12-18 03:27:44,541 - INFO - Retaining 18 glyphs
+2024-12-18 03:27:44,541 - INFO - head subsetting not needed
+2024-12-18 03:27:44,541 - INFO - hhea subsetting not needed
+2024-12-18 03:27:44,541 - INFO - maxp subsetting not needed
+2024-12-18 03:27:44,541 - INFO - OS/2 subsetting not needed
+2024-12-18 03:27:44,542 - INFO - hmtx subsetted
+2024-12-18 03:27:44,543 - INFO - cmap subsetted
+2024-12-18 03:27:44,543 - INFO - loca subsetting not needed
+2024-12-18 03:27:44,543 - INFO - post subsetted
+2024-12-18 03:27:44,543 - INFO - name subsetting not needed
+2024-12-18 03:27:44,545 - INFO - glyf subsetted
+2024-12-18 03:27:44,545 - INFO - head pruned
+2024-12-18 03:27:44,546 - INFO - OS/2 Unicode ranges pruned: [0]
+2024-12-18 03:27:44,546 - INFO - OS/2 CodePage ranges pruned: [0]
+2024-12-18 03:27:44,546 - INFO - glyf pruned
+2024-12-18 03:27:44,547 - INFO - name pruned
+2024-12-18 03:27:44,574 - INFO - PDF export completed and saved to output\sales_results.pdf
+2024-12-18 03:27:44,722 - INFO - Logged out successfully.
